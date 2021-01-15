@@ -1,2 +1,2 @@
 # kata_jenkins
-trigger~
+trigger try 2
